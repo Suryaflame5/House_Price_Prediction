@@ -98,7 +98,7 @@ export default function App() {
       if (data.success) {
         setMetrics(data.metrics);
         showToast('Pipeline training complete! Model updated.', 'success');
-      }} else {
+      } else {
         showToast(data.error || 'Pipeline retraining failed', 'error');
       }
     } catch (err: any) {
@@ -600,7 +600,7 @@ export default function App() {
                 <h4 className="text-sm font-bold text-white mb-2">Scikit-learn Estimator Details</h4>
                 <div className="text-xs space-y-1.5 text-slate-300">
                   <p><strong>Class Reference:</strong> GradientBoostingRegressor(random_state=42)</p>
-                  <p><strong>Grid Search Params:</strong> {"n_estimators": [50, 100], "max_depth": [3, 5]}</p>
+                  <p><strong>Grid Search Params:</strong> {'{"n_estimators": [50, 100], "max_depth": [3, 5]}'}</p>
                 </div>
               </div>
             </div>

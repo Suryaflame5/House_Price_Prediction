@@ -2,3 +2,9 @@
 {"timestamp": "2026-08-06T09:09:26.470425Z", "level": "INFO", "message": "Model loaded successfully.", "module": "main", "filename": "main.py", "line_number": 52}
 {"timestamp": "2026-08-06T09:22:54.660222Z", "level": "INFO", "message": "Model loaded successfully.", "module": "main", "filename": "main.py", "line_number": 52}
 {"timestamp": "2026-08-06T09:24:10.962761Z", "level": "INFO", "message": "Model loaded successfully.", "module": "main", "filename": "main.py", "line_number": 52}
+{"timestamp": "2026-08-06T12:42:05.183226Z", "level": "ERROR", "message": "Failed to load model: No module named '_loss'", "module": "main", "filename": "main.py", "line_number": 54}
+{"timestamp": "2026-08-06T12:46:31.923377Z", "level": "INFO", "message": "Model loaded successfully.", "module": "main", "filename": "main.py", "line_number": 52}
+{"timestamp": "2026-08-06T12:54:43.856560Z", "level": "INFO", "message": "Model loaded successfully.", "module": "main", "filename": "main.py", "line_number": 52}
+{"timestamp": "2026-08-06T12:56:05.210271Z", "level": "INFO", "message": "Model loaded successfully.", "module": "main", "filename": "main.py", "line_number": 52}
+{"timestamp": "2026-08-06T12:59:23.093991Z", "level": "INFO", "message": "Model loaded successfully.", "module": "main", "filename": "main.py", "line_number": 52}
+{"timestamp": "2026-08-06T13:02:26.113182Z", "level": "INFO", "message": "Model loaded successfully.", "module": "main", "filename": "main.py", "line_number": 52}
